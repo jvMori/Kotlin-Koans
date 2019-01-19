@@ -15,11 +15,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/Data classes/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Data classes/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/Default arguments/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Default arguments/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/Lambdas/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Lambdas/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/Named arguments/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Named arguments/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/Strings/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Strings/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Smart casts/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Smart casts/src/Task.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Builders/Builders how it works/out/" />
@@ -80,12 +77,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Task.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/Introduction/Extension functions/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="51">
-                  <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="10" />
+                <MainEditorState>
+                  <caret column="30" selection-start-column="30" selection-end-column="36" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -9840,6 +9837,8 @@
         <option value="$PROJECT_DIR$/Introduction/Lambdas/src/Task.kt" />
         <option value="$PROJECT_DIR$/Introduction/Strings/src/Task.kt" />
         <option value="$PROJECT_DIR$/Introduction/Data classes/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction/Smart casts/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -9999,7 +9998,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="right" id="Task" order="3" visible="true" weight="0.26308724" />
+      <window_info anchor="right" id="Task" order="3" visible="true" weight="0.26778522" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Build Variants" side_tool="true" />
@@ -10010,7 +10009,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="7" weight="0.21207659" />
       <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="right" id="Gradle" order="3" />
@@ -10185,8 +10184,30 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="10" />
+            <MainEditorState relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Smart casts/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Extension functions/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState>
+              <caret column="30" selection-start-column="30" selection-end-column="36" />
             </MainEditorState>
           </EduEditorState>
         </state>
